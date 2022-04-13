@@ -1,0 +1,18 @@
+.blk
+{
+    background-color: black;
+    color: white;
+
+}
+.yellow
+{
+    background-color: yellow;
+    color: black;
+}
+.blk
+.yellow
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+
+}

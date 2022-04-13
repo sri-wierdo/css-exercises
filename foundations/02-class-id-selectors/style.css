@@ -1,0 +1,27 @@
+.odd
+{
+    background-color: pink;
+    color: black;
+    text-align: left;
+    font-family: Verdana, dejavu-sans, sans-serif;
+}
+#even
+{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+.cool
+{
+    font-size: small;
+}
+#even2
+{
+    color: black;
+    background-color: green;
+    font-size: larger;
+    font-style: Bold;
+    font-weight: 900;
+    text-align: center;
+}
